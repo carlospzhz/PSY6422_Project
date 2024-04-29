@@ -12,10 +12,16 @@ Full project is viewable at https://github.com/carlospzhz/PSY6422_Project.
 The current graph lacks the ability to illustrate the distribution of individual data points. This information is crucial for understanding whether the observed increase in TDP-43 inclusions with MP004 is due to a general augmentation of inclusions across all cells or if it’s primarily driven by a rise in the frequency of cells with significantly higher numbers of inclusions. Thus, recreating the graph aims to answer this question.
 
 ### This repository contains:
-**figures**
-containing: "Average_number_of_Inclusions_4h" - the original figure, and, "NEW_Avg_number_TDP43_inclusions.jpeg" - the final plot produced.
-**data**
-containing "data_project.xlsx", raw data used for the analysis and processing, and, "processed_data.xlsx" data processed (long format) in the code used for visualisation.
-**rmd_styles**
-index.rmd - RMarkdown file (code)
-index.html - A web page of the markdown file
+- **figures** folder which contains:
+  1. "Average_number_of_Inclusions_4h" - the original figure.
+  2. "NEW_Avg_number_TDP43_inclusions.jpeg" - the final plot produced.
+- **data** folder which contains:
+  1. "codebook.txt" - a codebook for interpretation of the variables.
+  2. "data_project.xlsx" - raw data used for the analysis and processing.
+  3. "processed_data.xlsx" - data processed (long format) in the code used for visualisation.
+- index.rmd - RMarkdown file (code)
+- index.html - A web page of the markdown file
+
+
+### Visualization produced
+![](https://github.com/carlospzhz/PSY6422_Project/figures/NEW_Avg_number_TDP43_inclusions.jpeg)
