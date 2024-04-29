@@ -1,8 +1,0 @@
-DEFINITIONS
-· TDP-43 - a heterogeneous nuclear ribonucleoprotein (hnRNP) primarily located in the nucleus. Its pathological state is
-
-· TDP-43ΔNLS -  a TDP-43 construct with a mutated Nuclear Localisation Signal (NLS), fused with a green fluorescence protein used to model the mislocalization to the cytoplasm of TDP-43 in vitro (Zhang et al., 2013).
-
-· MP004 & MP010 - two different newly synthesized triazoles, with MP010 being able to cross the blood brain barrier (BBB) and MP004 unable to cross it. These compounds, modulate calcium homeostasis by enhancing between the FKBP12 protein and the Ryanodine receptors (RyR), which mediate calcium-induced calcium release from the endoplasmic reticulum (ER).
-
-· Control - a negative control for MP004 and MP010
