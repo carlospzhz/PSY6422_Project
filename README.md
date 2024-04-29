@@ -2,26 +2,21 @@
 Mini-project focusing on improving visualizations.
 
 ## Purpose:
-The objective of this module project is to recreate the graph using the original data in R, aiming to achieve the following:
-Develop a visualization that improves upon the aesthetics of the existing graph, enhancing its visual appeal and clarity.
-Create a visualization that facilitates the interpretation of the obtained data, offering insight of the distribution of inclusions for each condition.
+The objective of this module project is to recreate a graph from from an undergraduate dissertation titled “The effects of calcium modulators on TDP-43 function and development of a new co-localization protocol in ALS cellular models” using the original data in R, aiming to achieve the following:
+1. Develop a visualization that improves upon the aesthetics of the existing graph, enhancing its visual appeal and clarity.
+2. Create a visualization that facilitates the interpretation of the obtained data, offering new insight.
 
-Full project is viewable at .
-
-Reference: Dobbs, M., DeGutis, J., Morales, J., Joseph, K., & Swire-Thompson, B. (2023). Democrats are better than Republicans at discerning true and false news but do not have better metacognitive awareness. Communications Psychology, 1(1), 46.
+Full project is viewable at https://github.com/carlospzhz/PSY6422_Project.
 
 Research Question:
-The research question for this project is “Are Democrats better than Republicans at discerning true and false news?”. This question is answered in the visualisation and interpretation sections of the markdown document.
+The current graph lacks the ability to illustrate the distribution of individual data points. This information is crucial for understanding whether the observed increase in TDP-43 inclusions with MP004 is due to a general augmentation of inclusions across all cells or if it’s primarily driven by a rise in the frequency of cells with significantly higher numbers of inclusions. Thus, recreating the graph aims to answer this question.
 
 This repository contains:
 
-figures
-containing "main_plot.png", the final plot produced
-raw_data
-containing "raw_data.csv", raw data used for the analysis and processing
-processed_data
-containing "processed_data.csv", data processed in the code used for visualisation
-rmd_styles
-containing "mycss.css", css file used to customise/style the markdown document
-markdown230170494.rmd - RMarkdown file (code)
-markdown230170494.html - A web page of the markdown file
+**figures**
+containing: "Average_number_of_Inclusions_4h" - the original figure, and, "NEW_Avg_number_TDP43_inclusions.jpeg" - the final plot produced.
+**data**
+containing "data_project.xlsx", raw data used for the analysis and processing, and, "processed_data.xlsx" data processed (long format) in the code used for visualisation.
+**rmd_styles**
+index.rmd - RMarkdown file (code)
+index.html - A web page of the markdown file
