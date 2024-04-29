@@ -24,4 +24,4 @@ The current graph lacks the ability to illustrate the distribution of individual
 
 
 ### Visualization produced
-![](https://github.com/carlospzhz/PSY6422_Project/figures/NEW_Avg_number_TDP43_inclusions.jpeg)
+![](figures/NEW_Avg_number_TDP43_inclusions.jpeg)
