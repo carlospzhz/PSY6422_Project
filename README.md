@@ -22,6 +22,25 @@ The current graph lacks the ability to illustrate the distribution of individual
 - index.rmd - RMarkdown file (code)
 - index.html - A web page of the markdown file
 
+## Installation Instructions
+To run this project, you will need the following software and packages:
+
+### Dependencies
+Software: R (a programming language and environment for statistical computing and graphics)
+IDE: RStudio (an integrated development environment for R), or other IDE of your liking (check that it’s compatible with R)
+R Packages: ‘tidyverse’, ‘ggplot2’, ‘gghalves’, ‘see’
+Installation steps
+Install R
+1. Download and install R from the CRAN website.
++ Follow the installation instructions specific to your operating system.
+2. (*Optional*) Download RStudio Desktop from the RStudio download page.
++ Install RStudio by following the provided instructions.
++ Install Required Packages
+3. Launch R or RStudio and create a new R script (or open the existing markdown file).
+4. Copy and paste (or run) the following code found in the "code.R" script to check.
+
+This code can also be found in the markdown file (look for "*3.1 Setup and Preparation*" and "*3.2 Code for Data Visualization*" sections).
+By following these steps, your project environment will be set up with all the necessary software and packages to run the provided R code. This setup will allow you to process the data and generate plots defined in your scripts.
 
 ### Visualization produced
 ![](figures/NEW_Avg_number_TDP43_inclusions.jpeg)
