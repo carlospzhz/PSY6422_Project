@@ -8,11 +8,10 @@ The objective of this module project is to recreate a graph from from an undergr
 
 Full project is viewable at https://github.com/carlospzhz/PSY6422_Project.
 
-Research Question:
+### Research Question
 The current graph lacks the ability to illustrate the distribution of individual data points. This information is crucial for understanding whether the observed increase in TDP-43 inclusions with MP004 is due to a general augmentation of inclusions across all cells or if it’s primarily driven by a rise in the frequency of cells with significantly higher numbers of inclusions. Thus, recreating the graph aims to answer this question.
 
-This repository contains:
-
+### This repository contains:
 **figures**
 containing: "Average_number_of_Inclusions_4h" - the original figure, and, "NEW_Avg_number_TDP43_inclusions.jpeg" - the final plot produced.
 **data**
